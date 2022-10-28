@@ -17,5 +17,5 @@ function calculaPiramide() {
     document.getElementById("input1").value = "";
     document.getElementById("input2").value = "";
     document.getElementById("input3").value = "";
-    document.querySelector("#retorno").textContent = "Calculando...";
+    document.querySelector("#retorno").textContent = "";
   }
